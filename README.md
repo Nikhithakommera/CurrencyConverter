@@ -1,1 +1,1 @@
-
+Python is a very versatile programming language.currency converter project,which converts one currency to another country,this is build using the module requests,it is not built in python we need to install this module and to use this service we need the API key ,which can be get from fixer.io,we used this fixer API to get the live conversion rates and convert to corresponding amount.
